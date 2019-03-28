@@ -6,13 +6,17 @@ header{
     padding: 40px;
     text-align: center;
 }
- h1{font-size:75px;
-    
-color: white;}
+ h1{font-size:75px;    
+color: white;
+text-shadow: 0 4px 15px black;
+}
+
+
 header img{
     border-radius: 120px;
 width: 600px;
-border: 10px solid lightgray}
+border: 10px solid 	#861B83;
+box-shadow: 0 10px 20px black;}
 
 .content{
 margin: 0 auto;
